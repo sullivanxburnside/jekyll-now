@@ -19,7 +19,6 @@ html {
 
 body {
 	background-image: url("http://www.guoguiyan.com/data/out/114/68439251-led-wallpapers.jpg");
-    background-color: #cccccc;
   font: 18px/1.4 $helvetica;
   
 }
@@ -275,7 +274,7 @@ nav {
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 0px solid #ddd;
   background-color: $lightGray;
 }
 
