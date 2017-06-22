@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+	background-image: url("http://www.guoguiyan.com/data/out/114/68439251-led-wallpapers.jpg");
+    background-color: #cccccc;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  
 }
 
 .container {
@@ -156,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+
 
   @include mobile {
     text-align: center;
